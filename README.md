@@ -1,5 +1,5 @@
 # Recursive-Methods
-Recursive methods in Java, first semester's fourth Java project
+Recursive Methods in Java, first semester's fourth Java project
 
 Methods Table:
 
